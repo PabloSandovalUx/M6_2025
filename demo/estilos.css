@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: white;
+}
+section{
+    width: 60%;
+    margin-left: 20%;
+}
+
+.texto, .img{
+    display: inline-block;
+    width: 49%;
+    vertical-align: middle;
+}
+
+.img img{
+    width: 100%;
+}
